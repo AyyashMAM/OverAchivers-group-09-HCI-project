@@ -1,0 +1,20 @@
+IT18141566(Madusanka K.K.N.R)-Home(home.html)
+			      payment(payment.html)
+			      shipping(shipping.html)		
+
+IT18044478(M.A.M Ayyash)-fruits & vegitables(v&g.html)
+			 best buy(bestbuy.html)
+			 delivery details(form.html) 
+
+IT18075922(Nashath M.N.M)-Computer & accesories(Computer Accessories.html)
+			  signup(CreateAcc.html)
+		          login(login.html)			
+
+IT18073492(Sandeepani P.W.H.)-Grocery stores(index.html)
+			      feedback(feedback.html)
+			      abouus(aboutus.html)		
+
+IT18153378(Ranasinghe R.A.T.L)-Cart
+			       Catalog
+			       Manufacture details		
+
